@@ -1,0 +1,8 @@
+.Images{
+    display: flex;
+}
+.Images > img{
+    border: solid black;
+    width: 10rem;
+    margin: 1rem;
+}
